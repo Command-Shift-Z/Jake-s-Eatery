@@ -14,7 +14,7 @@ body {
 
 .nav {
     display: flex;
-    background-color: black;
+    background-color: #4A110A;
     padding: 20px;
     font-weight: 700;
 }
@@ -110,7 +110,7 @@ button {
 .footer {
     display: flex;
     padding: 25px;
-    background-color: black;
+    background-color: #4A110A;
     align-content: center;
     justify-content: center;
 }
